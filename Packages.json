@@ -1,0 +1,18 @@
+[
+    {
+        "name": "ff-dinner",
+        "friendlyName": "FF DINNER",
+        "description": "sigma school",
+        "author": "GAMATE HASH",
+        "category": "other",
+        "version": 1,
+        "feature_requirements": [],
+		"min_os_version": 300000,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/w/w96-wallpapers-extra/icon32.png",
+            "16x16": "$REPO_PATH$/dist/w/w96-wallpapers-extra/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/w/w96-wallpapers-extra"
+    }
+]

@@ -1,18 +1,15 @@
 [
     {
-        "name": "ff-dinner",
-        "friendlyName": "FF DINNER",
-        "description": "sigma school",
+        "name": "dwp-pak",
+        "friendlyName": "Dynamic Wallpaper Pack",
+        "description": "fuck fuck fuck fuck fuck fuck cock cock cock cock cock cock ah pun sea puh sea puh see. dick dick dick dick dick ",
         "author": "GAMATE HASH",
         "category": "other",
         "version": 1,
-        "feature_requirements": [],
-		"min_os_version": 300000,
-        "depends": [],
         "iconFiles": {
             "32x32": "$REPO_PATH$/dist/w/w96-wallpapers-extra/icon32.png",
             "16x16": "$REPO_PATH$/dist/w/w96-wallpapers-extra/icon16.png"
         },
-        "packageRoot": "$REPO_PATH$/dist/w/w96-wallpapers-extra"
+        "packageRoot": "https://file.garden/aUYIWVAKvQxCBY-_/data/w96/dwp-make"
     }
 ]
